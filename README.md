@@ -16,3 +16,6 @@
 #데이터흐름도
 ![Image of System](https://github.com/BigJoon/PUUUUUPUPU/blob/master/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%9D%90%EB%A6%84%EB%8F%84.png)
 
+
+
+#시연 영상은 추후 업로드하겠습니다.
